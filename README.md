@@ -2,6 +2,7 @@
 
 This repository provides a ROS 2 launch configuration for initializing and running multiple actuator control nodes in a coordinated system.  
 The launch file starts servo controllers, rotating motors, grippers, pushers, camera motors, a conveyor, a pump, and a high-level sequencing algorithm.
+[![Video Title](https://img.youtube.com/vi/zZVHVhHTDNM/0.jpg)](https://www.youtube.com/watch?v=zZVHVhHTDNM)
 
 ---
 
