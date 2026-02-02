@@ -1,0 +1,6 @@
+int64 id         # 1 to 4
+string command
+int64 time       #miliseconds
+---
+bool success
+string message 

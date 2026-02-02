@@ -1,0 +1,5 @@
+float64 angle #degree
+float64 time #seconds
+---
+bool success
+string message

@@ -1,0 +1,4 @@
+int8 pusher_id
+string command
+---
+bool success

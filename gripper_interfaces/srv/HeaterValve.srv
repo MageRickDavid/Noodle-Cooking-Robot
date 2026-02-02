@@ -1,0 +1,5 @@
+int8 relayid #(Heaters 0,1,2-----3,4,5------valves 6,7)
+string command # on or off
+---
+string message
+bool success

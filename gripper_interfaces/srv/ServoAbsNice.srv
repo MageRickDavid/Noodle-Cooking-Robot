@@ -1,0 +1,5 @@
+float64 position       #mm
+float64 time           #s
+---
+bool success
+string message

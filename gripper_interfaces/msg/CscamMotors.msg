@@ -1,0 +1,4 @@
+float64 lift1position
+float64 lift2position
+float64 lift3position
+float64 lift4position

@@ -1,0 +1,5 @@
+string direction    #CW or CCW
+int64 angle         #degree
+---
+bool success
+string message

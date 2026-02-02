@@ -1,0 +1,5 @@
+int8 pumpid # numbers from 1 to 4
+string command # ON or OFF
+---
+bool success
+string message

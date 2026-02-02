@@ -1,0 +1,5 @@
+float64 position       #mm
+float64 velocity       #mm/s
+---
+bool success
+string message

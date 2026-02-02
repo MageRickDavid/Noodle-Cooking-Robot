@@ -1,0 +1,7 @@
+2025-03-10 12:24:15,238 - INFO - Starting fast connection process...
+2025-03-10 12:24:15,238 - INFO - Testing 9 parameter combinations in parallel
+2025-03-10 12:24:15,460 - ERROR - Failed to establish a Modbus connection after trying all parameter combinations
+2025-03-10 12:24:25,919 - INFO - Starting fast connection process...
+2025-03-10 12:24:25,919 - INFO - Testing 9 parameter combinations in parallel
+2025-03-10 12:24:26,137 - ERROR - Failed to establish a Modbus connection after trying all parameter combinations
+2025-03-10 12:24:32,245 - ERROR - Error in control loop: AttributeError: 'NoneType' object has no attribute 'write_bit'
