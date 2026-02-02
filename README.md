@@ -79,4 +79,4 @@ After building your workspace:
 
 ```bash
 source install/setup.bash
-ros2 launch <your_package_name> <launch_file_name>.py
+ros2 launch sequence full_system_launch.launch.py
